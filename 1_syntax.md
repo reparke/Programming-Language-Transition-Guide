@@ -1,6 +1,6 @@
-
-
 ## Basic Syntax
+
+**Note:** In programming for microcontrollers, we will not use the standard input / output in C++ (e.g. `cin` and `cout`) and we will be creating custom classes, but they are included below.
 
 ### Basic Syntax: C++ ([driver.cpp](resources\c++_comparison\1_syntax\c++\driver.cpp))
 
