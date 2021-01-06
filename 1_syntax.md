@@ -2,7 +2,7 @@
 
 **Note:** In programming for microcontrollers, we will not use the standard input / output in C++ (e.g. `cin` and `cout`) and we will be creating custom classes, but they are included below.
 
-### Basic Syntax: C++ ([driver.cpp](resources\c++_comparison\1_syntax\c++\driver.cpp))
+### Basic Syntax: C++ ([driver.cpp](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/1_syntax/c%2B%2B/driver.cpp))
 
 ```c++
 // Comments: single line
@@ -198,7 +198,7 @@ int main()
 
 ```
 
-### Basic Syntax: Python ([main.cpp](resources\c++_comparison\1_syntax\python\main.py))
+### Basic Syntax: Python ([main.cpp](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/1_syntax/python/main.py))
 
 ```python
 #define main function
@@ -263,7 +263,7 @@ main()
 
 
 
-### Basic Syntax: Java ([Program.java](resources\c++_comparison\1_syntax\java\Program.java))
+### Basic Syntax: Java ([Program.java](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/1_syntax/java/Program.java))
 
 ```java
 import java.util.Scanner;
