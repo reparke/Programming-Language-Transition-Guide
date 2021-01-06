@@ -4,7 +4,7 @@ The goals of these documents are to help you translate your familiarity with Pyt
 
 Below are examples of complete programs using functions, arrays / lists, and classes in C++, Python, and Java. Each group of programs performs the same functionality so you can compare C++ to a language you might be more familiar with.
 
-You can also download all the [source code](resources\c++_comparison\c++_comparison.zip) directly.
+You can also download all the [source code](https://github.com/reparke/Programming-Language-Transition-Guide/archive/main.zip) directly.
 
 - [Basic Syntax](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/1_syntax.md)
 - [Functions](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/2_functions.md)
