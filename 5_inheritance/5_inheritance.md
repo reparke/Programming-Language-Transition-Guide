@@ -19,4 +19,4 @@
 ### Python
 - Base / Parent Class ([Shape.py](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/5_inheritance/python/Shape.py))
 - Derived / Child Class ([Rectangle.py](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/5_inheritance/python/Rectangle.py))
-- Driver Program ([main.py](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/5_inheritance/pytnon/main.py))
+- Driver Program ([main.py](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/5_inheritance/python/main.py))
