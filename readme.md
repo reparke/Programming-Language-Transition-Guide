@@ -13,4 +13,3 @@ You can also download all the [source code](https://github.com/reparke/Programmi
     - [Creating Classes](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/4_classes/4_creating_classes.md)
     - [Using Classes](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/4_classes/4_using_classes.md)
 5. [Inheritance](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/5_inheritance/5_inheritance.md)
-6. [Polymorphism](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/6_polymorphism/6_polymorphism.md)
