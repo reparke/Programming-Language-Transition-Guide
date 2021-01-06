@@ -2,6 +2,10 @@
 
 The goals of these documents are to help you translate your familiarity with Python, C++, or Java into one of the other languages. The main focus here is to guide those with Python experience to be able to program for Arduino in C++ so certain advanced features of each language are not covered.
 
+## [C++ Quick Start Guide](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/c++_overview.md)
+This covers the basic language features to write simple programs.
+
+## Code Comparison
 Below are examples of complete programs using functions, arrays / lists, and classes in C++, Python, and Java. Each group of programs performs the same functionality so you can compare C++ to a language you might be more familiar with.
 
 You can also download all the [source code](https://github.com/reparke/Programming-Language-Transition-Guide/archive/main.zip) directly.
