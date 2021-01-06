@@ -6,7 +6,7 @@ You can also download all the [source code](resources\c++_comparison\c++_compari
 
 **Note:** For microcontroller programming, we will not use the standard input / output in C++ (e.g. `cin` and `cout`) and we will be creating custom classes, but they are included below.
 
-
+* [Basic Syntax](https://github.com/reparke/Programming-Language-Transition-Guide/blob/main/1_syntax.md)
 
 ## Basic Syntax
 
